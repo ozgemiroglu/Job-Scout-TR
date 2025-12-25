@@ -1,0 +1,3 @@
+ARANAN POZİSYON: Bilgisayar Mühendisi
+ŞEHİR: İstanbul
+DENEYİM VE ÖZET: 6 yıllık tecrübeye sahip bilgisayar mühendisiyim. Python alanında deneyime sahibim. makine öğrenmesi ve doğal dil işleme alanında uzun yıllar çalıştım.
