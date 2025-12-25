@@ -43,7 +43,7 @@ Edit the `me.txt` file to define your search criteria and professional summary:
 ARANAN POZİSYON: [e.g., Senior Portfolio Manager]
 ŞEHİR: [e.g., Istanbul]
 DENEYİM VE ÖZET: [e.g., 25 years of experience in banking...]
-
+```
 ### 3. Execution
 
 Run the main script to start the analysis:
@@ -51,14 +51,12 @@ Run the main script to start the analysis:
 ```bash
 
 python main.py
-
+```
 
 📊 Sample Output
 
 The application generates an Excel file named Analysis_Report_...xlsx. The report includes:
 
 Match Score (%): How well the job aligns with your profile.
-
 Position & Company: Cleaned job title and employer name.
-
 Job URL: Direct link to the listing for immediate application.
